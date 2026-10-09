@@ -1,0 +1,37 @@
+# Build outputs
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/private/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Maven
+.mvn/timing.properties
+
+# Test reports
+surefire-reports/
